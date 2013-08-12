@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<?php echo my_text('${1:name}', '${2:default}'${3:, '${4:input-block-level}'${5:, '${6:id}'}}) ?>$0
+]]></content>
+	<tabTrigger>text</tabTrigger>
+	<scope>source.php,text.html</scope>
+</snippet>

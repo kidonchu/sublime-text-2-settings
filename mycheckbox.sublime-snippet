@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+<label class="checkbox">
+	<?php echo my_checkbox('${1:name}', '${2:value}'${3:, ${4:true}}) ?>
+	${5:Label}
+</label>
+]]></content>
+	<tabTrigger>checkbox</tabTrigger>
+	<scope>source.php,text.html</scope>
+</snippet>
