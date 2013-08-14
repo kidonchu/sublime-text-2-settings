@@ -1,7 +1,10 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"Emmet",
 		"Package Control",
+		"SublimeLinter",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
 	]
