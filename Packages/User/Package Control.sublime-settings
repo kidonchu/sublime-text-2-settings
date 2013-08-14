@@ -5,11 +5,14 @@
 		"Alignment",
 		"BracketHighlighter",
 		"Emmet",
+		"FindKeyConflicts",
 		"Git",
 		"Package Control",
 		"Prefixr",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"Tag",
+		"Text Pastry",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
 	]
