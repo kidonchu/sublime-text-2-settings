@@ -2,4 +2,4 @@ Pristine Packages/
 Installed Packages/
 Settings/
 Backup/
-
+*.pyc
