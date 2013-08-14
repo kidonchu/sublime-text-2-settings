@@ -2,8 +2,12 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
 		"Emmet",
 		"Package Control",
+		"Prefixr",
+		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Theme - Soda",
 		"Tomorrow Color Schemes"
