@@ -1,0 +1,24 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"DocBlockr",
+		"Emmet",
+		"FindKeyConflicts",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"Prefixr",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Text Pastry",
+		"Theme - Soda",
+		"ToggleQuotes",
+		"Tomorrow Color Schemes"
+	]
+}
