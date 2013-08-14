@@ -38,5 +38,31 @@
 	{ "keys": ["g", "9"], "command": "select_by_index", "args": { "index": 8 } },
 	{ "keys": ["g", "0"], "command": "select_by_index", "args": { "index": 9 } },
 	{ "keys": ["ctrl+shift+alt+k"], "command": "swap_line_up" },
-	{ "keys": ["ctrl+shift+alt+j"], "command": "swap_line_down" }
+	{ "keys": ["ctrl+shift+alt+j"], "command": "swap_line_down" },
+	{
+			"keys": ["alt+down"], "command": "navigate_results",
+			"context": [
+					{"key": "setting.command_mode", "operand": true}
+			],
+			"args": {"direction": "forward"}
+	},
+	{
+			"keys": ["alt+up"], "command": "navigate_results",
+			"context": [
+					{"key": "setting.command_mode", "operand": true}
+			],
+			"args": {"direction": "backward"}
+	},
+	{
+			"keys": ["alt+left"], "command": "clear_selection",
+			"context": [
+					{"key": "setting.command_mode", "operand": true}
+			]
+	},
+	{
+			"keys": ["alt+right"], "command": "goto_comment",
+			"context": [
+					{"key": "setting.command_mode", "operand": true}
+			]
+	}
 ]
