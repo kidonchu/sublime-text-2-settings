@@ -4,6 +4,7 @@
 		"AdvancedNewFile",
 		"Alignment",
 		"BracketHighlighter",
+		"ChangeQuotes",
 		"Emmet",
 		"FindKeyConflicts",
 		"Git",
@@ -16,6 +17,7 @@
 		"Tag",
 		"Text Pastry",
 		"Theme - Soda",
+		"ToggleQuotes",
 		"Tomorrow Color Schemes"
 	]
 }
